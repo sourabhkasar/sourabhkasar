@@ -10,6 +10,7 @@ const isadult = () => {
     else
         return false;
     function isAdult() {
-    mahes = [];
+        mahes = [];
+        adityas = [];
     
 }

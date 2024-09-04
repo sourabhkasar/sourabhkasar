@@ -9,4 +9,7 @@ const isadult = () => {
     }
     else
         return false;
+    function isAdult() {
+    mahes = [];
+    
 }

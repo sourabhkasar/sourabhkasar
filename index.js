@@ -13,4 +13,7 @@ const isadult = () => {
         mahes = [];
         adityas = [];
     
+        function isAdult() {
+        mahes = [age];
+        adityas = [];
 }
